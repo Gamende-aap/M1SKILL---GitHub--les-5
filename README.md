@@ -31,6 +31,11 @@ Tot slot hebben we ons script op een GameObject gezet en uitgeprobeerd tijdens h
 
 <br>
 
+# Link naar 1.1/1.2 scripts
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/PlayerMovement.cs
+
+<br>
+
 # Wat Hebben We Gedaan – Les 2.1
 
 <br>
@@ -55,6 +60,12 @@ We ontdekten de belangrijkste datatypes: int (gehele getallen), float (kommageta
 We hebben onze eerste variabelen aangemaakt, veranderd en gebruikt met Debug.Log().
 We leerden hoe we toetsenbordinput kunnen verwerken met Input.GetKey(), Input.GetKeyDown() en Input.GetAxis().
 Tot slot maakten we een simpel bewegingssysteem waarbij een GameObject reageert op WASD toetsen en leerden we hoe variabelen zichtbaar worden in de Inspector.
+
+<br>
+
+# Link naar 2.1/2.2 scripts
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/PlayerMovement.cs
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/player.cs
 
 <br>
 
@@ -87,6 +98,12 @@ Tot slot hebben we gekeken naar function naming best practices, variable scope (
 
 <br>
 
+# Link naar 3.1/2.13.2 scripts
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/player.cs
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/WeaponSelector.cs
+
+<br>
+
 # Wat Hebben We Gedaan – Les 4.1
 
 <br>
@@ -115,6 +132,13 @@ Tot slot bespraken we best practices zoals het gebruik van CompareTag(), het org
 
 <br>
 
+# Link naar 4.1/4.2 scripts
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/CollectObject.cs
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/HitObject.cs
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/Coincollector.cs
+
+<br>
+
 # Wat Hebben We Gedaan – Les 5.1
 
 <br>
@@ -136,6 +160,12 @@ We gebruikten if-statements en switch statements om beslissingen te nemen gebase
 We hebben de GetComponent<Type>() functie toegepast om componenten en scripts van andere GameObjects op te halen en zo interacties tussen objecten te organiseren.
 Praktische voorbeelden waren onder andere slimme pickups die alleen kunnen worden opgepakt onder bepaalde voorwaarden en een interactieve deur die opent als de speler een sleutel heeft en dichtbij staat.
 We combineerden kennis uit eerdere lessen: input uit Les 2.2, collision detection uit Les 4.2, en logica uit Les 5.1, en leerden patronen voor leesbare en onderhoudbare code.
+
+<br>
+
+# Link naar 5.1/5.1 scripts
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/PlayerHealthSystem.cs
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/PlayerLife.cs
 
 <br>
 
@@ -175,5 +205,12 @@ We hebben ook aandacht besteed aan loop performance en optimalisatie, zoals het 
 
 Praktische voorbeelden waren onder andere: het verwerken van vijanden in een lijst, het doorlopen van een inventory grid, en het beheren van tower defense waves waarbij meerdere enemies automatisch worden gespawnd en gecontroleerd.
 We combineerden kennis uit eerdere lessen en leerden patronen voor efficiënte, overzichtelijke en onderhoudbare code met loops.
+
+<br>
+
+# Link naar 6.1/6.2 scripts
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/WalkCycle.cs
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/RotateObject.cs
+https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/RotateAround.cs
 
 <br>
