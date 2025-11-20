@@ -15,17 +15,17 @@ public class PlayerLife : MonoBehaviour
     }
 
 
- void onCollisionEnter(Collider other)
+    void OnCollisionEnter(Collision collision)
     {
-        Debug.Log("Colide iets " + other.tag);
-    }
-    void OnTriggerEnter(Collider other)
-    {
-        if (other.CompareTag("Enemy") && !isInvincible)
+        Debug.Log(collision.gameObject.tag);
+        if (collision.gameObject.CompareTag("Enemy") && !isInvincible)
         {
             LoseLife(1);
         }
+        //feedbackText.text = "Hey, ik bots tegen de " + collision.gameObject.name;
     }
+
+
 
     public void LoseLife(int amount)
     {

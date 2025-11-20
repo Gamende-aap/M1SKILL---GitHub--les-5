@@ -30,12 +30,20 @@ public class PlayerHealthSystem : MonoBehaviour
         }
     }
 
+     private void onCollisionEnter(Collider other)
+    {
+        if (other.CompareTag("Goomba"))
+        {
+            LoseHealth();
+        }
+    }
+
     void LoseHealth()
     {
         health--;
 
         healthTextField.text = "x " + health;
-        feedbackTextField.text = "Ouch! Health left: " + health;
+       // feedbackTextField.text = "Ouch! Health left: " + health;
 
         if (health < 0)
         {

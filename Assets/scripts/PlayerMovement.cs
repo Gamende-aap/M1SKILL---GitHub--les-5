@@ -29,7 +29,7 @@ public class PlayerMovement : MonoBehaviour
 
     void OnCollisionEnter(Collision collision)
     {
-        Debug.Log(collision.gameObject.name);
+        Debug.Log(collision.gameObject.tag);
         //feedbackText.text = "Hey, ik bots tegen de " + collision.gameObject.name;
     }
 }
