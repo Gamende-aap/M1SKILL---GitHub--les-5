@@ -244,6 +244,16 @@ https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/
 
 we hebben geleerd hoe je een array handig kan gebruiken
 
+<h2>demo:</h2>
+<br>
+<img width="403" height="566" alt="Schermafbeelding 2025-11-20 124019" src="https://github.com/user-attachments/assets/326127d6-f204-4880-9cf2-d7faee143d58" />
+<br>
+<br>
+
+<h2>code:</h2>
+<br>
+<img width="1214" height="1292" alt="Schermafbeelding 2025-11-20 124149" src="https://github.com/user-attachments/assets/4db2f8c6-e795-45e5-b452-7dfa94079a36" />
+<br>
 <br>
 
 
