@@ -65,6 +65,7 @@ Tot slot maakten we een simpel bewegingssysteem waarbij een GameObject reageert 
 
 # Link naar 2.1/2.2 scripts
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/PlayerMovement.cs
+<br>
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/player.cs
 
 <br>
@@ -100,6 +101,7 @@ Tot slot hebben we gekeken naar function naming best practices, variable scope (
 
 # Link naar 3.1/2.13.2 scripts
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/player.cs
+<br>
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/WeaponSelector.cs
 
 <br>
@@ -134,7 +136,9 @@ Tot slot bespraken we best practices zoals het gebruik van CompareTag(), het org
 
 # Link naar 4.1/4.2 scripts
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/CollectObject.cs
+<br>
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/HitObject.cs
+<br>
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/Coincollector.cs
 
 <br>
@@ -165,6 +169,7 @@ We combineerden kennis uit eerdere lessen: input uit Les 2.2, collision detectio
 
 # Link naar 5.1/5.1 scripts
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/PlayerHealthSystem.cs
+<br>
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/PlayerLife.cs
 
 <br>
@@ -210,7 +215,35 @@ We combineerden kennis uit eerdere lessen en leerden patronen voor efficiënte, 
 
 # Link naar 6.1/6.2 scripts
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/WalkCycle.cs
+<br>
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/RotateObject.cs
+<br>
 https://github.com/Gamende-aap/M1SKILL---GitHub--les-5/blob/main/Assets/scripts/RotateAround.cs
 
+<br>  
 <br>
+<br>
+
+----
+
+<br>
+<br>
+<br>
+
+<h1><b><strong>Module 2</strong></b></h1>
+
+<br>
+<br>
+<br>
+
+----
+
+# Wat hebben we gedaan - les 1.1
+
+<br>
+
+we hebben geleerd hoe je een array handig kan gebruiken
+
+<br>
+
+
