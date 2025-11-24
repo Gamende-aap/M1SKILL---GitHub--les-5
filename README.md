@@ -255,5 +255,18 @@ we hebben geleerd hoe je een array handig kan gebruiken
 <img width="1214" height="1292" alt="Schermafbeelding 2025-11-20 124149" src="https://github.com/user-attachments/assets/4db2f8c6-e795-45e5-b452-7dfa94079a36" />
 <br>
 <br>
+<br>
+
+----
+
+<br>
+<br>
+<br>
+
+# Pegel opdracht 1.2
+
+<br>
+
+we moeten een consept voor de pegel opdrach maken:
 
 
