@@ -293,7 +293,39 @@ https://github.com/user-attachments/assets/4d228a97-18d7-41fa-9cd7-65f21d1065a8
 
 <h2>Code</h2>
 <br>
-<img width="1045" height="867" alt="Schermafbeelding 2025-12-01 152841" src="https://github.com/user-attachments/assets/582fde6a-0776-4f1a-9228-1211c73cc7ad" />
+<img width="1256" height="1350" alt="Schermafbeelding 2025-12-01 153435" src="https://github.com/user-attachments/assets/4e2e8d69-5fac-4050-9646-971c62fe2a97" />
+<br>
+<img width="1343" height="1193" alt="Schermafbeelding 2025-12-01 153445" src="https://github.com/user-attachments/assets/71691d22-f9be-404f-9062-9c608be83bb6" />
+<br>
+<br>
+<br>
+
+----
+
+<br>
+<br>
+<br>
+
+# GD - M2 - GDV: Opdracht 3.2: Bumpers en Combo System
+
+<br>
+
+we moesten bumpers maken voor de pegel game
+
+<h2>demo</h2>
+<br>
+
+
+https://github.com/user-attachments/assets/0023b2b5-261f-4774-a64a-5fac8840fcf5
+
+
+<br>
+<br>
+
+<h2>Code</h2>
+<br>
+<img width="1045" height="867" alt="Schermafbeelding 2025-12-01 152841" src="https://github.com/user-attachments/assets/395b2d4e-d980-4d95-8d95-fb9a2766880c" />
+
 <br>
 <br>
 <br>
