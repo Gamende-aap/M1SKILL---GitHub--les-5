@@ -269,4 +269,37 @@ we hebben geleerd hoe je een array handig kan gebruiken
 
 we moeten een consept voor de pegel opdrach maken:
 
+<br>
+<br>
+<br>
 
+----
+
+<br>
+<br>
+<br>
+
+# Opdracht 2.2: Mikken, Shieten en Line Renderer
+
+<br>
+
+we moeten een wapen maken om te richeten en dingen te vuuren
+
+<h2>demo</h2>
+<br>
+https://github.com/user-attachments/assets/4d228a97-18d7-41fa-9cd7-65f21d1065a8
+<br>
+<br>
+
+<h2>Code</h2>
+<br>
+<img width="1045" height="867" alt="Schermafbeelding 2025-12-01 152841" src="https://github.com/user-attachments/assets/582fde6a-0776-4f1a-9228-1211c73cc7ad" />
+<br>
+<br>
+<br>
+
+----
+
+<br>
+<br>
+<br>
