@@ -306,6 +306,40 @@ https://github.com/user-attachments/assets/4d228a97-18d7-41fa-9cd7-65f21d1065a8
 <br>
 <br>
 
+
+# GD - M2 - GDV: Opdracht 3.1 Score & Triggers Opdracht
+
+<br>
+
+We moesten een Peggle die reageert wanneer de bal het object raakt maken, bijhoudt hoeveel hits er nog over zijn, punten doorgeeft aan de ScoreManager en verdwijnt zodra de ingestelde hoeveelheid hits is bereikt.
+
+<br>
+
+<h2>demo</h2>
+<br>
+
+
+
+Uploading Schermopname 2025-12-11 123558.mp4…
+
+
+
+<br>
+<br>
+
+<h2>Code</h2>
+<br>
+<img width="1061" height="756" alt="Schermafbeelding 2025-12-11 123955" src="https://github.com/user-attachments/assets/d05c43c2-8783-4dcf-96cb-544a1228ece8" />
+
+<br>
+<br>
+<br>
+
+----
+
+
+
+
 # GD - M2 - GDV: Opdracht 3.2: Bumpers en Combo System
 
 <br>
