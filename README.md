@@ -369,3 +369,161 @@ https://github.com/user-attachments/assets/0023b2b5-261f-4774-a64a-5fac8840fcf5
 <br>
 <br>
 <br>
+
+# GD - M2 - GDV: Les 4.1 – Week 4 Level Design & UI
+
+<br>
+
+We moesten een nieuw level maken voor onze Peggle game en een UI bouwen met een score, een eigen font en extra UI-elementen.  
+De UI moest goed schalen op verschillende resoluties met anchors, Canvas Scaler en een 9-slice element.
+
+<br>
+
+
+<h2>Level</h2>
+<br>
+
+<img width="1852" height="855" alt="Schermafbeelding 2026-01-30 173621" src="https://github.com/user-attachments/assets/c5981967-890a-4721-a816-c6b278fd398b" />
+
+
+<br>
+<br>
+
+<h2>UI</h2>
+<br>
+
+
+<img width="490" height="254" alt="Schermafbeelding 2026-01-30 173658" src="https://github.com/user-attachments/assets/b38b37e8-3533-4de7-8b6f-142b5b3b8d8a" />
+
+<br>
+<br>
+<br>
+
+----
+
+<br>
+<br>
+<br>
+
+# GD - M2 - GDV: Les 4.2 Scores versturen naar UI
+
+<br>
+
+We moesten ervoor zorgen dat de score en combo multiplier vanuit het spel naar de UI worden gestuurd.  
+Daarnaast hebben we het aantal geschoten ballen bijgehouden en na 5 schoten het schieten uitgeschakeld.
+
+<br>
+
+<h2>Code</h2>
+<br>
+
+<img width="2198" height="1244" alt="Schermafbeelding 2026-01-30 173913" src="https://github.com/user-attachments/assets/05317e8e-d87a-4182-a9b2-ee0f9ff80a72" />
+
+
+<br>
+
+<h2>UI</h2>
+<br>
+
+<img width="490" height="254" alt="Schermafbeelding 2026-01-30 173658" src="https://github.com/user-attachments/assets/8448c884-5c1b-464e-9ade-310333f8a7eb" />
+
+<br>
+<br>
+<br>
+
+----
+
+<br>
+<br>
+<br>
+
+# GD - M2 - GDV: Les 5.2 Particles, Sounds & Screenshake
+
+<br>
+
+We moesten particles, geluiden en een screenshake toevoegen aan onze Peggle game.  
+Wanneer de bal een bumper raakt worden particles afgespeeld, een geluid afgespeeld en het scherm schudt voor extra impact.
+
+<br>
+
+<h2>demo</h2>
+<br>
+
+
+
+https://github.com/user-attachments/assets/918bd6ce-a4aa-4fea-a85b-a5bdd1e0d95f
+
+
+
+<br>
+<br>
+
+<h2>Code</h2>
+<br>
+
+<img width="930" height="985" alt="Schermafbeelding 2026-01-30 174341" src="https://github.com/user-attachments/assets/1b62f204-b558-438e-b26a-24bb44c325eb" />
+
+<br>
+<br>
+<br>
+
+----
+
+<br>
+<br>
+<br>
+
+# GD - M2 - GDV: Les 6 Afronden en uitbreiden
+
+<br>
+
+In deze les heb ik mijn Peggle game getest, de checklist bekeken en gewerkt aan het afronden van het spel.  
+Daarna heb ik een nieuwe feature toegevoegd zonder bestaande onderdelen te breken.
+
+<br>
+
+<h2>Checklist</h2>
+<br>
+
+- Werkende Peggle game  
+- Score en UI werken correct  
+- Particles, geluid en screenshake werken  
+- Geen vastlopers tijdens het spelen  
+
+<br>
+
+<h2>Planning</h2>
+<br>
+
+- Ontbrekende onderdelen afronden  
+- Bugs oplossen  
+- Nieuwe feature bedenken en bouwen  
+- Game testen en build maken  
+
+<br>
+
+<h2>Nieuwe feature</h2>
+<br>
+
+Ik heb een nieuwe feature toegevoegd om het spel leuker en duidelijker te maken voor de speler.  
+Deze feature werkt samen met de bestaande systemen en breekt niets in de game.
+
+<br>
+
+<h2>demo</h2>
+<br>
+
+![Bezig met opnemen 2026-01-30 174737](https://github.com/user-attachments/assets/77da495c-24cf-4690-a941-3296317faee1)
+
+
+<br>
+<br>
+
+<h2>Build</h2>
+<br>
+
+De build van het spel staat onder **Releases** in deze repository.
+
+<br>
+<br>
+<br>
